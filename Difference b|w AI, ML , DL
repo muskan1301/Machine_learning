@@ -1,0 +1,16 @@
+
+AI (Artificial Intelligence), ML (Machine Learning), and DL (Deep Learning) are related concepts, but they have distinct differences:
+
+1. AI (Artificial Intelligence): It refers to the ability of machines to perform tasks that typically require human intelligence, 
+such as problem-solving, decision-making, and perception. AI is a broad field that includes several techniques, such as rule-based 
+systems, expert systems, and machine learning.
+
+2. ML (Machine Learning): It is a subset of AI that involves teaching machines to learn from data, without being explicitly programmed.
+It enables machines to improve their performance on a task over time by learning from experience. ML algorithms can be supervised, 
+unsupervised, or reinforcement learning.
+
+3. DL (Deep Learning): It is a subset of machine learning that uses artificial neural networks to learn from large amounts of data.
+Deep learning algorithms can automatically learn to recognize patterns in data, and can be used for tasks such as image recognition, 
+speech recognition, and natural language processing.
+
+Therefore, AI is the broader concept that encompasses ML, and DL is a subset of ML that involves deep neural networks.
