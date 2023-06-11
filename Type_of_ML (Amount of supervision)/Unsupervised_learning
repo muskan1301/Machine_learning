@@ -1,0 +1,30 @@
+Unsupervised learning is a type of machine learning where the algorithm learns patterns and structures from unlabeled data without any explicit guidance or 
+labeled examples. Unlike supervised learning, there are no predefined target variables or output labels.In unsupervised learning, the algorithm aims to discover 
+inherent patterns, relationships, or hidden structures within the data. It does so by exploring the input features and identifying similarities, differences,
+clusters, or associations within the data points.
+
+Here are some key characteristics and techniques used in unsupervised learning:
+
+1. Clustering: Clustering algorithms group similar data points together based on their features or proximity. Common clustering algorithms include k-means
+                clustering, hierarchical clustering, and DBSCAN (Density-Based Spatial Clustering of Applications with Noise).
+
+2. Dimensionality Reduction: Dimensionality reduction techniques aim to reduce the number of input features while preserving the important information. 
+                             These techniques help in visualizing high-dimensional data and identifying the most relevant features. Principal Component
+                             Analysis (PCA) and t-SNE (t-Distributed Stochastic Neighbor Embedding) are popular dimensionality reduction algorithms.
+
+3. Anomaly Detection: Anomaly detection algorithms identify unusual or rare instances in the data. They are used to detect outliers or anomalies that deviate 
+                      significantly from the normal patterns. Examples include methods based on statistical approaches, clustering, or distance-based techniques.
+
+4. Association Rules: Association rule mining identifies interesting relationships or associations among variables in a dataset. It discovers frequent patterns 
+                      or itemsets and generates rules such as "If X, then Y." Apriori and FP-Growth are widely used algorithms for association rule mining.
+
+5. Density Estimation: Density estimation techniques aim to estimate the underlying probability distribution of the data. They help in understanding the data 
+                       distribution and detecting regions of high density. Gaussian Mixture Models (GMM), Kernel Density Estimation (KDE), and Mean Shift are 
+                       commonly used for density estimation.
+
+Unsupervised learning has various applications, including customer segmentation, market basket analysis, anomaly detection, recommender systems, 
+and data visualization. It can provide insights into the underlying structure of the data and help in discovering hidden patterns or relationships.
+
+One of the challenges in unsupervised learning is evaluating the performance since there are no explicit ground truth labels.Evaluation is often subjective and 
+relies on domain knowledge or visual inspection. However, unsupervised learning algorithms play a crucial role in exploratory data analysis and can serve as a 
+foundation for further analysis or decision-making processes.
