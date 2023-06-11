@@ -1,0 +1,11 @@
+Supervised learning is a branch of machine learning where an algorithm learns from labeled training data to make predictions or decisions. It involves learning a 
+mapping function that can predict the correct output given new, unseen input data. The process includes collecting labeled data, splitting it into training 
+and test sets, selecting a suitable model, training the model using the training data, evaluating its performance on the test set, and deploying it to make 
+predictions on new data. 
+Supervised learning includes:
+  Regression
+  Classification
+  1. Regression: Regression algorithms are used when the output variable is continuous or numerical. The goal is to predict a value based on input features. 
+                 Examples include linear regression, polynomial regression, and support vector regression.
+  2. Classification: Classification algorithms are used when the output variable is categorical or discrete. The goal is to assign inputs to predefined classes 
+                     or categories. Examples include logistic regression, decision trees, random forests, support vector machines (SVM), and naive Bayes.
